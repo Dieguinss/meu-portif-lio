@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos desenvolvidos
 - [🍲 Site de Receitas](https://github.com/Dieguinss/site-receitas) (HTML/CSS/JS)  
 - [✅ Lista de Tarefas](https://github.com/Dieguinss/lista-de-tarefas) (Vue.js)  
 - [🥖 Sistema Padaria Frutal](https://github.com/Dieguinss/PadariaFrutal) (Ionic + PHP + MySQL)  
