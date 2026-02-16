@@ -1,11 +1,11 @@
 👋 Olá, eu sou o Diego!
 
 🎓 *Bacharel em Sistemas de Informação*  
-💻 *Desenvolvedor Full Stack* com experiência em:  
+💻 *Desenvolvedor Front end* com experiência em:  
 - PHP, Java, Python  
 - HTML, CSS, JavaScript  
 - MySQL  
-📚 Atualmente aprendendo *Automação e IA*  
+    
 
 ---
 
